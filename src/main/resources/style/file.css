@@ -1,0 +1,45 @@
+.title{
+
+    -fx-text-fill: #7433ff;
+    -fx-font-size:24px;
+    -fx-font-weight:bold;
+}
+.wellcome{
+
+    -fx-text-fill: #ffffff;
+    -fx-font-size:13px;
+    -fx-font-weight:bold;
+}
+
+.btn{
+    -fx-background-color: #7433ff;
+    -fx-padding: 5 15;
+    -fx-text-fill: white;
+    -fx-font-size:18px;
+
+}
+
+.button{
+    -fx-background-color: #7433ff ;
+    -fx-text-fill: white;
+    -fx-font-size:15px;
+    -fx-font-weight:bold;
+ 
+}
+
+.container{
+    -fx-padding: 40;
+    -fx-background-color:#ffffff;
+
+
+  
+}
+
+.text-field{
+    -fx-background-radius:50;
+}
+.background{
+    -fx-background-color:linear-gradient(to right,#61D8DE, #e07be8);
+
+
+}
